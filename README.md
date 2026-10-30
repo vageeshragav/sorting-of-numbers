@@ -58,8 +58,6 @@ END
 ```
 ## OUTPUT(Ascending order)
 ```asm
-<img width="587" height="437" alt="image" src="https://github.com/user-attachments/assets/c86f62b7-2419-42b1-bba2-56895acd1f58" />
-<img width="442" height="188" alt="image" src="https://github.com/user-attachments/assets/78a45a94-76f4-4379-8ae9-7149daff81ab" />
 
 ORG 0000H
 
@@ -140,7 +138,7 @@ END
 
 ```
 ## OUTPUT(Descending order)
-```asm
+
 <img width="587" height="437" alt="image" src="https://github.com/user-attachments/assets/c86f62b7-2419-42b1-bba2-56895acd1f58" />
 <img width="442" height="188" alt="image" src="https://github.com/user-attachments/assets/78a45a94-76f4-4379-8ae9-7149daff81ab" />
 
@@ -150,4 +148,7 @@ END
 ---
 ## RESULT:
 Thus the sorting of given data was done using 8051 keil software.
+<img width="587" height="437" alt="image" src="https://github.com/user-attachments/assets/c86f62b7-2419-42b1-bba2-56895acd1f58" />
+<img width="442" height="188" alt="image" src="https://github.com/user-attachments/assets/78a45a94-76f4-4379-8ae9-7149daff81ab" />
+
 
